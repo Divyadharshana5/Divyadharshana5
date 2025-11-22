@@ -1,5 +1,5 @@
-                                                           👋 Hi, I'm Divyadharshana!
-                                                     Passionate about building innovative tech...
+                                                        👋 Hi, I'm Divyadharshana!
+                                                 Passionate about building innovative tech...
 
 I’m a final-year Computer Science student from Chennai deeply interested in full-stack web development and learning data structures and algorithms.
 
