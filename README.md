@@ -1,6 +1,6 @@
-# Hi 👋, **I'm Divyadharshana**
+                                                # Hi 👋, **I'm Divyadharshana**
 
-**Passionate about building responsive websites and delightful user experiences.**
+                   **Passionate about building responsive websites and delightful user experiences.**
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/divyadharshana5)
 - Email: [divyadharshana3@gmail.com](mailto:divyadharshana3@gmail.com)
@@ -113,7 +113,3 @@ Below are the tools, languages, and platforms I like to work with — presented 
 </table>
 
 ---
-
-If you'd like any tweaks:
-- I can increase tile size, add hover effects, or change to a responsive flex-grid (2/3/4 columns depending on screen).
-- I can also push this to your README (in a branch or directly to main) and open a pull request for review — tell me which you prefer and which branch to use.
