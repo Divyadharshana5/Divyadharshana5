@@ -1,6 +1,6 @@
-                                                # Hi 👋, **I'm Divyadharshana**
+# Hi 👋, **I'm Divyadharshana**
 
-                   **Passionate about building responsive websites and delightful user experiences.**
+**Passionate about building responsive websites and delightful user experiences.**
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/divyadharshana5)
 - Email: [divyadharshana3@gmail.com](mailto:divyadharshana3@gmail.com)
