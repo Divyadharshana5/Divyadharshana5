@@ -75,10 +75,11 @@ Below are the tools, languages, and platforms I like to work with — presented 
   </tr>
   <tr>
     <td align="center">
-      <a href="https://expressjs.com/" title="Express">
-        <img src="https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white" alt="Express" width="80" height="80"/>
+      <a href="https://github.com/Divyadharshana5" title="GitHub">
+        <!-- shields.io badge for GitHub (reliable) -->
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="150" height="40"/>
       </a>
-      <div style="margin-top:6px">Express</div>
+      <div style="margin-top:6px">GitHub</div>
     </td>
     <td align="center">
       <a href="https://firebase.google.com/" title="Firebase">
@@ -101,10 +102,11 @@ Below are the tools, languages, and platforms I like to work with — presented 
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Divyadharshana5" title="GitHub">
-        <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="80" height="80"/>
+      <a href="https://expressjs.com/" title="Express">
+        <!-- shields.io badge for Express (very reliable for README rendering) -->
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" width="150" height="40"/>
       </a>
-      <div style="margin-top:6px">GitHub</div>
+      <div style="margin-top:6px">Express</div>
     </td>
     <td></td>
     <td></td>
@@ -114,4 +116,6 @@ Below are the tools, languages, and platforms I like to work with — presented 
 
 ---
 
-If the Express tile still doesn't render for you, try clearing the browser cache and reloading the profile page; the shields.io badge is highly reliable across environments.
+If icons still don’t appear after you update:
+- Clear browser cache and reload your GitHub profile page.
+- Make sure README.md is in the repository named exactly: Divyadharshana5 (profile README must be in a repo with your username).
