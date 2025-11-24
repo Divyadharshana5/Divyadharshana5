@@ -3,7 +3,7 @@
 **Passionate about building responsive websites and delightful user experiences.**
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/divyadharshana5)
-- Email: [divyadharshana3@gmail.com](mailto:divyadharshana3@gmail.com)
+- Connect me through: [divyadharshana3@gmail.com](mailto:divyadharshana3@gmail.com)
 - Blood Group: **A+**
 
 ---
