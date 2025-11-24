@@ -18,7 +18,7 @@ Hackathon finalist at Smart India Hackathon at IIT Jammu, winner at college-leve
 
 ## Favorite Tech
 
-Below are the tools, languages, and platforms I like to work with — presented as larger tiles with captions (click any tile to open its page):
+Below are the tools, languages, and platforms I like to work with...
 
 <table>
   <tr>
