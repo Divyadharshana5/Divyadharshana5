@@ -115,7 +115,3 @@ Below are the tools, languages, and platforms I like to work with — presented 
 </table>
 
 ---
-
-If icons still don’t appear after you update:
-- Clear browser cache and reload your GitHub profile page.
-- Make sure README.md is in the repository named exactly: Divyadharshana5 (profile README must be in a repo with your username).
